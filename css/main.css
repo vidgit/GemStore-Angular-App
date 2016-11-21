@@ -11,7 +11,7 @@
     margin-left: 20%;
     margin-right: 20%;
     /*border-right: 1px solid #3e83f2;*/
-    border-left: 1px solid #3e83f2;
+    border-left: 1px solid #F05A28;
 }
 
 .list-group-item{
@@ -29,4 +29,30 @@ border-color: #FA787E;
 
 .ng-valid.ng-dirty {
 border-color: #3e83f2;
+}
+
+.nav-pills > li.active > a {
+    background-color:#EE4036;
+}
+
+.nav-pills >li> a {
+    color:#EE4036;
+}
+
+.nav-pills>li.active>a:hover {
+    background-color:#EE4036;
+}
+.nav-pills>li.active>a:focus {
+    background-color:#EE4036;
+}
+
+.btn-primary:hover,
+.btn-primary,
+.btn-primary:focus {
+    background-color: #EE4036;
+    border-color: #F05A28;
+}
+.btn-primary:active:focus {
+    background-color: #ea0e0e;
+    border-color: #EE4036;
 }
