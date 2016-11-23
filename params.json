@@ -1,0 +1,6 @@
+{
+  "name": "Gemstore-angular-app",
+  "tagline": "An angular app for a Gem Store",
+  "body": "# GemStore-Angular-App\r\nAn angular app for a Gem Store.\r\n\r\nBuilt as part of Codeschool's Shaping up with Angular.\r\n\r\nThe app is a catalogue of various gems, their characteristics and price, all presented using a single page angular application.\r\n\r\nThe app can be hosted on your own machine using the node package serve.\r\nTo install use: \r\nsudo npm install serve  \r\n\r\nUse $ serve in the app directory and navigate to localhost:3000 to view the app.\r\n\r\nNode package manager and Node have to be installed before you can install serve. To install node visit https://nodejs.org/en/.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
